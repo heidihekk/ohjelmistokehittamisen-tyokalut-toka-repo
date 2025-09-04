@@ -13,10 +13,10 @@ Perheeseeni kuuluu aviomies ja kolme lasta, alkuvuodesta meille syntyy vauva.
 
 ## Harrastukset:
 
-- lasten kanssa touhuaminen 
-- ulkoilu
+- käsityöt
 - sijoittaminen
 - it-alan opiskelu
+- muutoin vapaa-aika kuluu pitkälti lasten kanssa ulkoillessa ja touhutessa, sekä kotitöiden parissa
 
 ## Muuta:
 
