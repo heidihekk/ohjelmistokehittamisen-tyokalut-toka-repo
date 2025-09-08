@@ -30,8 +30,8 @@ Luonteeltani olen *rauhallinen*, *tiedonhaluinen/utelias* ja *ystävällinen*.
 ---
 ### Koodinpätkä jonka jo ymmärrän:
 
-`nimi = input("Anna nimesi: ")
-print(f"Hei {nimi}, tervetuloa Pythonin pariin!")`
+`nimi = input("Anna nimesi: ")`  
+`print(f"Hei {nimi}, tervetuloa Pythonin pariin!")`
 
 ---
 ### Sitaatti, josta saan tsemppiä opiskeluun:
